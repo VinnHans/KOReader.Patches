@@ -1,4 +1,4 @@
---[[ Patch to add progress percentage badges in top right corner of cover ]]
+--[[ Patch to add a bookmark with a trophy to your finished books ]]
 --
 -- created combining the "disable fullyread progress bar" patch by joshuacant & the "percent badge" patch by SeriousHornet
 -- stylua: ignore start
